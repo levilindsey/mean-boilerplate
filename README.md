@@ -2,7 +2,7 @@
 
 #### General-purpose starting code for apps using the MEAN stack
 
-_See the app running at [<URL>]()!_
+_See this running at [<URL>]()!_
 
 ======
 
