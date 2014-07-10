@@ -1,18 +1,18 @@
 {
-  "name": "text-color-slide",
-  "version": "0.1.0",
+  "name": "<APP_NAME>",
+  "version": "0.0.0",
   "author": {
     "name": "Levi Lindsey",
     "email": "levisl176@gmail.com",
     "url": "http://jackieandlevi.com/levi"
   },
-  "description": "Linear color animation across text",
+  "description": "<APP_DESCRIPTION>",
   "scripts": {
     "start": "node init.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/levisl176/text-color-slide"
+    "url": "https://github.com/levisl176/<APP_NAME>"
   },
   "dependencies": {
     "express": "~4.0.0",
