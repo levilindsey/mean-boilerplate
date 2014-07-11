@@ -1,0 +1,15 @@
+{
+  "name": "<APP_NAME>",
+  "description": "<APP_DESCRIPTION>",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "1.2.x",
+    "angular-mocks": "~1.2.15",
+    "angular-route": "~1.2.15",
+    "angular-resource": "~1.2.15",
+    "angular-animate": "~1.2.15",
+    "angular-ui-router": "~0.2.10"
+  }
+}
