@@ -30,4 +30,10 @@ function setUpStaticFiles(server) {
   staticPath = config.publicPath;
   server.use(mountPath, serveStatic(staticPath));
   console.log('Serving static files: staticPath=' + staticPath + ', mountPath=' + mountPath);
+
+  // Set up the bower files
+  mountPath = '/bower_components';
+  staticPath = config.bowerPath;
+  server.use(mountPath, serveStatic(staticPath));
+  console.log('Serving static files: staticPath=' + staticPath + ', mountPath=' + mountPath);
 }
