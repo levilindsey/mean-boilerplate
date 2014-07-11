@@ -8,7 +8,8 @@
   },
   "description": "<APP_DESCRIPTION>",
   "scripts": {
-    "start": "node init.js"
+    "start": "node init.js",
+    "postinstall": "bower install"
   },
   "repository": {
     "type": "git",
