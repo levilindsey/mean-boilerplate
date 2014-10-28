@@ -2,7 +2,9 @@
 
 #### General-purpose starting code for apps using the MEAN stack
 
-_See this running at [<URL>]()!_
+**THIS PROJECT IS NO LONGER IN DEVELOPMENT**
+
+This project has been abandoned in favor of a [newer, related project](https://github.com/levisl176/generator-meanie) that defines a Yeoman generator.
 
 ======
 
